@@ -1,0 +1,25 @@
+.search-container {
+    display: flex;
+    align-items: center;
+    width: 300px; /* You can adjust the width as needed */
+}
+
+/* Style for the input field */
+.search-container input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+/* Style for the search button */
+.search-button {
+    background-color: cornsilk;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-size: 20px; /* You can adjust the font size as needed */
+}
